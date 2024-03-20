@@ -1,0 +1,14 @@
+# project configuration
+.exercicio_zero/project
+
+# patch files
+*.orig
+*.rej
+
+# generated files
+/**/__pycache__/
+RESULT
+
+# test tools
+.coverage
+.tox
