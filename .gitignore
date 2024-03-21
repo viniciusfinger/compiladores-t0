@@ -12,3 +12,5 @@ RESULT
 # test tools
 .coverage
 .tox
+
+compiladores_t0.egg-info
