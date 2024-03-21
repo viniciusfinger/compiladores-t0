@@ -1,0 +1,9 @@
+COPYING
+README.md
+pyproject.toml
+src/zero.py
+src/compiladores_t0.egg-info/PKG-INFO
+src/compiladores_t0.egg-info/SOURCES.txt
+src/compiladores_t0.egg-info/dependency_links.txt
+src/compiladores_t0.egg-info/requires.txt
+src/compiladores_t0.egg-info/top_level.txt
