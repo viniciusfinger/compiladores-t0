@@ -1,6 +1,0 @@
-black
-pylint
-flake8
-pydocstyle
-behave
-pytest
