@@ -1,4 +1,5 @@
 # SPDX-License-Identifer: MIT
+"""Implementação do exercício zero da aula de Compiladores."""
 
 def procura_maior(lista):
     """Retorna o maior elemento de uma lista."""
