@@ -1,9 +1,11 @@
 # Copyright (c) 2024 Rafael Guterres Jeffman
 # See the file COPYING for license details.
 ---
-name: grade_work
+name: Avaliação
 run-name: 
-on: push
+on:
+  - push
+  - pull_request
 jobs:
   lint_check:
     name: Avaliação do pylint
